@@ -1,2 +1,2 @@
 # gatewaygallary
-Live Demo: Link('https://gatewayimages.vercel.app/')
+Live Demo: [Here](https://gatewayimages.vercel.app/)
